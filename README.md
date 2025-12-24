@@ -1,4 +1,4 @@
-![Portfolio Image](https://raw.githubusercontent.com/lqrpingfunds/lqrpingfunds/main/iih.png)
+![Portfolio Image](https://raw.githubusercontent.com/lqrpingfunds/lqrpingfunds/main/iihh.png)
 
 🌐 PORTFOLIO & PROJECTS
 https://fataldose.lol
