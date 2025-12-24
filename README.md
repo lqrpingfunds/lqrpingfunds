@@ -1,4 +1,4 @@
-[https://github.com/lqrpingfunds/lqrpingfunds/blob/main/iih.png](https://raw.githubusercontent.com/lqrpingfunds/lqrpingfunds/refs/heads/main/iih.png)
+![Portfolio Image](https://raw.githubusercontent.com/lqrpingfunds/lqrpingfunds/main/iih.png)
 
 🌐 PORTFOLIO & PROJECTS
 https://fataldose.lol
@@ -6,14 +6,14 @@ https://encode.lol
 https://vault13.lol
 
 💻 CORE EXPERTISE
-Languages:
+**Languages:**
 Python
 C#
 C++
 Lua
-
 Assembly
-Security Focus
+
+**Security Focus**
 Penetration Testing
 Vulnerability Research
 Exploit Development
@@ -22,7 +22,7 @@ Malware Analysis
 Network Security
 
 🛠️ TECHNICAL TOOLKIT
-Security Tools
+**Security Tools**
 Wireshark
 Scapy
 Nmap
@@ -34,21 +34,21 @@ pwntools
 GDB
 
 📦 FREE TOOL RELEASE
-# I made a free RobloxOsint tool
+## I made a free RobloxOsint tool
 
 🌐 CONTACT INFORMATION
-Discord
+**Discord**
 98fv (Primary)
 iamacopycat (Alt)
 
-Email
+**Email**
 protectmyopsec@onionmail.org
 
-GitHub
+**GitHub**
 github.com/98fv
 
 🚀 PROJECT HIGHLIGHTS
-Network Protocol Analyzer
+**Network Protocol Analyzer**
 Advanced packet inspection and anomaly detection
 
 📊 GITHUB STATS
