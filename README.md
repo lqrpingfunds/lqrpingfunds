@@ -1,10 +1,10 @@
 🌐 PORTFOLIO & PROJECTS
-fataldose.lol
-encode.lol
-vault13.lol
+https://fataldose.lol
+https://encode.lol
+https://vault13.lol
 
 💻 CORE EXPERTISE
-Languages
+Languages:
 Python
 C#
 C++
