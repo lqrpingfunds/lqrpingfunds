@@ -49,12 +49,6 @@ github.com/98fv
 Network Protocol Analyzer
 Advanced packet inspection and anomaly detection
 
-Vulnerability Scanner
-Multi-language security assessment tool
-
-Reverse Engineering Framework
-Cross-platform binary analysis toolkit
-
 📊 GITHUB STATS
 #1%
 Top Contributor
