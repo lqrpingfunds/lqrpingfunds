@@ -2,12 +2,14 @@
 fataldose.lol
 encode.lol
 vault13.lol
+
 💻 CORE EXPERTISE
 Languages
 Python
 C#
 C++
 Lua
+
 Assembly
 Security Focus
 Penetration Testing
@@ -16,6 +18,7 @@ Exploit Development
 Reverse Engineering
 Malware Analysis
 Network Security
+
 🛠️ TECHNICAL TOOLKIT
 Security Tools
 Wireshark
@@ -27,10 +30,10 @@ Radare2
 Metasploit
 pwntools
 GDB
+
 📦 FREE TOOL RELEASE
 # I made a free RobloxOsint tool
-# Download and run for accessible OSINT capabilities
-# Visit my GitHub for latest releases
+
 🌐 CONTACT INFORMATION
 Discord
 98fv (Primary)
