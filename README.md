@@ -1,3 +1,5 @@
+https://github.com/lqrpingfunds/lqrpingfunds/blob/main/iih.png
+
 🌐 PORTFOLIO & PROJECTS
 https://fataldose.lol
 https://encode.lol
